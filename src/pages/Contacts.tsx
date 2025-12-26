@@ -17,6 +17,9 @@ export default function Contacts() {
               <Link to="/" className="text-muted-foreground hover:text-accent transition-colors font-medium">
                 Главная
               </Link>
+              <Link to="/forum" className="text-muted-foreground hover:text-accent transition-colors font-medium">
+                Форум
+              </Link>
               <Link to="/contacts" className="text-foreground hover:text-accent transition-colors font-medium">
                 Контакты
               </Link>
